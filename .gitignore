@@ -1,3 +1,4 @@
 reports/
 github-token.txt
 __pycache__/
+chromedriver
